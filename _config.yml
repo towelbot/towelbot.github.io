@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -8,8 +9,7 @@
 # Site settings
 title: Talbot's Webpage
 email: tobefilledinlater@atotallyrealdomain.com
-description: > 
-OMG LIKE THIS IS SUCH A GREAT WEBSITE YOU GUYS! I CAN TOTES FEEL IT IN MY BONESY BONES. OMG. TOTES FOREVER.
+description: OMG LIKE THIS IS SUCH A GREAT WEBSITE YOU GUYS! I CAN TOTES FEEL IT IN MY BONESY BONES. OMG. TOTES FOREVER.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://twistedsyx.net" # the base hostname & protocol for your site
 twitter_username: twistedsyx
