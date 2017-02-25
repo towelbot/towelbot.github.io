@@ -8,7 +8,7 @@
 # Site settings
 title: Talbot's Webpage
 email: tobefilledinlater@atotallyrealdomain.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > 
 OMG LIKE THIS IS SUCH A GREAT WEBSITE YOU GUYS! I CAN TOTES FEEL IT IN MY BONESY BONES. OMG. TOTES FOREVER.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://twistedsyx.net" # the base hostname & protocol for your site
