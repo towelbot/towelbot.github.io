@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   And, I'm just trying out codecademy and github stuff. So what do I know. More
   about networking and web services clearly.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://twistedsyx.net" # the base hostname & protocol for your site
 twitter_username: twistedsyx
 github_username:  towelbot
 
