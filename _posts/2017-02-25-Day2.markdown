@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Day 2: The omgoddening"
+date:   2017-02-25 20:05:00 -0800
+categories: jekyll update
+---
+I have figured out that i have no idea what is going on, or what any good purpose is to do with this. Index.html renders however many posts are parsed in site.posts. But I'm imagining there's some front end nonsense that some other python based this thing had fixed. Markdown and Kramdown seem to be kind of stop gap versions of ruby. We'll see
