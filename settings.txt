@@ -1,8 +1,8 @@
 //
 // Trial Configuration (valid until January 2, 2018)
 //
-customer = "v3trial"
-licensekey = "9d2a56a659f51a00-S22f8aa6c1b393f0a-Caf22fb5e5227cbf4-C579ecb640de79a0e-C41d6bb4eb32875"
+customer = "belkin"
+licensekey = "78c26df25a160f80-Cd19ad7b0ac0fdd71-adf15b512f1caf17"
 
 // engine configuration
 threadnum = "2"
