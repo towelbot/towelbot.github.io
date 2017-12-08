@@ -98,6 +98,11 @@ ul.topnav li.dropdownIcon {
   background: linear-gradient(#076DFF, #65a5ff); /* Standard syntax */
 }
 
+.leftSide-col {
+  margin-left: 30%;
+  
+}
+
 h1.large {
   color: white;
   font-size: 56px;
@@ -105,10 +110,15 @@ h1.large {
   line-height: 70px;
 }
 
+form h2 {
+  color: white;
+}
+
 input[type="text"]{
   font-size: 20px;
   width: 400px;
   min-width: 100px;
+  padding: 5px;
 }
 
 /*################# youtube1 ################*/
