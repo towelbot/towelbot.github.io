@@ -105,6 +105,12 @@ h1.large {
   line-height: 70px;
 }
 
+input[type="text"]{
+  font-size: 20px;
+  width: 400px;
+  min-width: 100px;
+}
+
 /*################# youtube1 ################*/
 
 /*youtube {
