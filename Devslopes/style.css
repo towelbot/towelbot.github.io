@@ -98,10 +98,10 @@ ul.topnav li.dropdownIcon {
   background: linear-gradient(#076DFF, #65a5ff); /* Standard syntax */
 }
 
-.h1.large {
+h1.large {
   color: white;
   font-size: 56px;
-  
+
 }
 
 /*################# youtube1 ################*/
