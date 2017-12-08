@@ -62,7 +62,7 @@ ul.topnav li.dropdownIcon {
 
 /*################# Custom Styles ################*/
 
-#section-1-gradient {
+#gradientAlpha {
   background: #076DFF; /* For browsers that do not support gradients */
   background: -webkit-linear-gradient(#076DFF, #65a5ff); /* For Safari 5.1 to 6.0 */
   background: -o-linear-gradient(#076DFF, #65a5ff); /* For Opera 11.1 to 12.0 */
