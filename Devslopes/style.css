@@ -53,6 +53,12 @@ ul.topnav li.dropdownIcon {
   display: none;
 }
 
+/*################# youtube1 ################*/
+
+youtube {
+  display: block;
+  float: left;
+}
 
 /*################# Mobile ################*/
 
