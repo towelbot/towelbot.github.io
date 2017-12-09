@@ -98,8 +98,12 @@ ul.topnav li.dropdownIcon {
   background: linear-gradient(#076DFF, #65a5ff); /* Standard syntax */
 }
 
-.leftSide-col {
-  margin-left: 30%;
+div.leftSide-col {
+  margin-left: 20%;
+}
+
+div.rightSide-col {
+  margin-left: 15%;
 }
 
 h1.large {
@@ -115,9 +119,10 @@ form h2 {
 
 input[type="text"]{
   font-size: 20px;
-  width: 400px;
+  width: 350px;
   min-width: 100px;
   padding: 5px;
+  border-radius: 7px;
 }
 
 /*################# youtube1 ################*/
@@ -157,6 +162,26 @@ input[type="text"]{
   ul.topnav.responsive li a {
     display: block;
     text-align: left;
+  }
+
+  .col-6 {
+    width: 100%;
+    margin: 0;
+  }
+
+  div.leftSide-col, div.rightSide-col {
+    margin: 15px;
+  }
+
+  input[type="text"] {
+    width: 300px;
+  }
+
+  .videoContainer iframe {
+    position: relative;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
   }
 
 }
