@@ -99,7 +99,7 @@ ul.topnav li.dropdownIcon {
 }
 
 #gradientBeta {
-  background: red; /* For browsers that do not support gradients */
+  background: #076DFF; /* For browsers that do not support gradients */
   background: -webkit-linear-gradient(#65a5ff, #076DFF); /* For Safari 5.1 to 6.0 */
   background: -o-linear-gradient(#65a5ff, #076DFF); /* For Opera 11.1 to 12.0 */
   background: -moz-linear-gradient(#65a5ff, #076DFF); /* For Firefox 3.6 to 15 */
@@ -188,7 +188,7 @@ input[type="text"]{
   .videoContainer iframe {
     position: relative;
     width: 100%;
-    margin: 0;
+    margin: 15px;
     overflow: hidden;
   }
 
