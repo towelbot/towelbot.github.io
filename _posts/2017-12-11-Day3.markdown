@@ -6,9 +6,9 @@ categories: jekyll update
 ---
 So, I bought some classes online for a full stack web development nonsense from Stackskills, which went to Devslopes, which I originally purchases from Engadget's store? Man, I don't even.
 Anyway, I'm figuring out git branches and forks and have like two links to share to keep things sorted:
-<br>
+<br><br>
 development: <a href="https://rawgit.com/towelbot/towelbot.github.io/Test/Devslopes/index.html">https://rawgit.com/towelbot/towelbot.github.io/Test/Devslopes/index.html</a>
-<br>
+<br><br>
 Not development: <a href="http://twistedsyx.net/Devslopes/">http://twistedsyx.net/Devslopes/</a>
-<br>
+<br><br>
 Both hosted at the github.io webhost thing. Just trying to figure it all out
