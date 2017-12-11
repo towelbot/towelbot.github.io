@@ -100,10 +100,10 @@ ul.topnav li.dropdownIcon {
 
 #gradientBeta {
   background: red; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(red, yellow); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(red, yellow); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(red, yellow); /* Standard syntax */
+  background: -webkit-linear-gradient(#65a5ff, #076DFF); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#65a5ff, #076DFF); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#65a5ff, #076DFF); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#65a5ff, #076DFF); /* Standard syntax */
 }
 
 div.leftSide-col {
