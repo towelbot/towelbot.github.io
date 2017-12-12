@@ -178,8 +178,9 @@ h1.large {
 }
 
 h1.section2Header {
-  font-size: 65px;
+  font-size: 60px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 form h2 {
