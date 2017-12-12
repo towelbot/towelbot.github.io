@@ -8,4 +8,4 @@ Hello, have an update!
 <br><br>
 The class I'm taking is called: Beginner Full Stack Web Development: HTML, CSS, React & Node from Devslopes, but I'm using it at stackskills.com. It must be the stack social coupon team doing a streaming service or some thing.
 <br><br>
-I managed to successfully merge my test and development websites that I've been making for the Devslopes in github pages. There's no content and everything is a damned placeholder, but there it is. 
+I managed to successfully merge my test and development websites that I've been making for the Devslopes in github pages. There's no content and everything is a damned placeholder, but there it is.
