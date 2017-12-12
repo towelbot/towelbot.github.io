@@ -214,6 +214,28 @@ input[type="text"]{
   border-radius: 7px;
 }
 
+footer.footish {
+  background-color: #666;
+  padding-left: 10%;
+}
+
+footer.footish h1 {
+  color: white;
+  font-size: 35px;
+}
+
+footer.footish ul {
+  list-style: none;
+  text-align: left;
+  padding-left: 0;
+}
+
+footer.footish ul li {
+  color: white;
+  font-size: 22px;
+  line-height: 1.5;
+}
+
 /*################# youtube1 ################*/
 
 /*youtube {
@@ -267,6 +289,11 @@ input[type="text"]{
   .col-5 {
     width: 100%;
     margin: 0;
+  }
+
+  div.mobileStack {
+    width: 50%;
+    display: block;
   }
 
   div.box {
