@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 5: Website improvement"
+date:   2017-12-13 13:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Quick update today. I've been working on finding and customizing the CSS of the blog and link posts on this Jekyll website. There's now a links page with some links to my devslopes classes to start with. I'll dump resources I've been collecting over time to make this website and other stuff.
+<br><br>
+This has been a learning experience and so I'm planning to finish this full stack development class before taking additional python video courses.
+<br><br>
+Hugs n kisses everyone.
