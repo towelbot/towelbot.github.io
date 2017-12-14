@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 6: Net Neutrality Day"
+date:   2017-12-14 9:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Another quick update. Also, this is awful about the damn Net Neutrality vote happening today. I think this could go down as one of the worst thing for internet technologies in quite some time. Anyway, don't know if I'll have much time to do any coding today, but we'll see. Yesterday I had to quit doing any real work on my work laptop as everything would hang and crash so hard that task manager wouldn't load, so I took time to get all of my work stuff over to this old macbook pro work had lying around (but I took it from a guy who was laid off shhh). Turns out it was much easier to force Macs to add a new admin account to the computer with an install disc than previously thought.
+<br><br>
+Party on Wayne
