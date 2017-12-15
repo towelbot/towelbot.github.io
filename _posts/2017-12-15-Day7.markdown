@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 7"
+date:   2017-12-15 9:30:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+I started a couple more javascript videos yesterday and it was pretty easy. Instancing variables and differentiating between integers and strings and a passing knowledge that there are indeed both. Quotes around strings and yada yada.
+<br><br>
+The big deal from the last couple of days is getting used to macs while my work computer (running windows) is still shutting down, third day in a row! Woo! My Cinema HD display is in horrible resolution because I don't have a dual link DVI to mini displayport adapter. Bummer. But ALSO I'm trying to just use atom to stage changes locally and push them to the master branch for this website. I also fixed a day mixup in one of my posts. yay!
+<br><br>
+Ciao
