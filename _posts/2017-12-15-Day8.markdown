@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 8"
+date:   2017-12-16 22:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+I did not do any real coding practicing today. Very busy. Got a new keyboard for home. Hopefully it's a bit quieter so my partner doesn't hate me for practicing coding or playing some video games.
+<br><br>
+Saturday Fun day!
