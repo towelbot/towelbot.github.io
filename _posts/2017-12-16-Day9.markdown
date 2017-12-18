@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 9"
+date:   2017-12-17 22:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Again, another no real news day. I'm gonna start back up on the Devslopes classes again tomorrow. Been doing a little bit of bitcoin mining research instead. Seems that software that's out there really wants you to use pools n such. I think it sounds a little scammy. Still needs more doing. Anyway. Happy Sunday
+<br><br>
+Catch ya later.
