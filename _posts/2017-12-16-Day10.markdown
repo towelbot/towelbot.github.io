@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Day 10"
+date:   2017-12-18 22:30:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Another day researching cryptocurrency instead of coding. I don't know what I'm doing. That's about it.
