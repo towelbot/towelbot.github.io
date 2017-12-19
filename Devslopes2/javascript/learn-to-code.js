@@ -14,14 +14,40 @@
 //
 // console.log(loginWelcomeMessage);
 
-var sum = 10 + 15;
-var sub = 15 - 10;
-var mul = 10 * 3;
-var div = 9 / 3;
-var mod = 10 % 3;
+// var sum = 10 + 15;
+// var sub = 15 - 10;
+// var mul = 10 * 3;
+// var div = 9 / 3;
+// var mod = 10 % 3;
+//
+// var msg = "10 / 3 = 3 with a remainder of " + mod;
+//
+// var result = 10 * ((5 + 3) - 4);
+//
+// console.log(sub);
 
-var msg = "10 / 3 = 3 with a remainder of " + mod;
+var myAccountBalance = 300;
+var nikeSBShoes = 699.23;
+var coupon = 400;
+//
+// if (nikeSBShoes <= myAccountBalance) {
+//   myAccountBalance -= nikeSBShoes;
+//   console.log("We shoes bought whatever.");
+//   console.log("Account Balance: " + myAccountBalance);
+// } else if (nikeSBShoes - coupon <= myAccountBalance) {
+//   myAccountBalance -= (nikeSBShoes - coupon);
+//   console.log("We shoes bought whatever. + Coupon nasty nasty coupon.");
+//   console.log("Account Balance: " + myAccountBalance);
+// } else {
+//   console.log("BUDDY NAAAAAAA");
+//   console.log("Account Balance: " + myAccountBalance);
+// }
 
-var result = 10 * ((5 + 3) - 4);
+var age = 23;
+var joesAge = "23";
 
-console.log(sub);
+if (age === joesAge) {
+  console.log("I'm the same age as Joe");
+} else {
+  console.log("Everything is fucking garbage Mark. Everything.");
+}
