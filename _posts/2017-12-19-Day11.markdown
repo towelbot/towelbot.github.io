@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 11"
+date:   2017-12-19 22:30:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Did one lecture on comparison operators for javascript in devslopes again. Or stackskills? Whatever. Typical stuff, and a simple if/else flow. I imagine that's gonna get more tricky, but for now seems manageable. Two things that are definitely going to give me pain:
+<ul>
+<li>=== Compares type and value</li>
+<li>Single lines of code in loops don't require curly brackets (wait what? boooooo)</li>
+</ul>
+<br><br>
+I also had to fix some really bad numbering conventions in post types and titles. But I also found out about the "duplicate" feature in Atom. So, that should make things easier.
+<br><br>
+Bye all.
