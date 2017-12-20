@@ -26,9 +26,9 @@
 //
 // console.log(sub);
 
-var myAccountBalance = 300;
-var nikeSBShoes = 699.23;
-var coupon = 400;
+// var myAccountBalance = 300;
+// var nikeSBShoes = 699.23;
+// var coupon = 400;
 //
 // if (nikeSBShoes <= myAccountBalance) {
 //   myAccountBalance -= nikeSBShoes;
@@ -43,11 +43,36 @@ var coupon = 400;
 //   console.log("Account Balance: " + myAccountBalance);
 // }
 
-var age = 23;
-var joesAge = "23";
+// var age = 23;
+// var joesAge = "23";
+//
+// if (age === joesAge) {
+//   console.log("I'm the same age as Joe");
+// } else {
+//   console.log("Everything is fucking garbage Mark. Everything.");
+// }
 
-if (age === joesAge) {
-  console.log("I'm the same age as Joe");
-} else {
-  console.log("Everything is fucking garbage Mark. Everything.");
+// if (1 === 1 && 2 ==2) {
+//   console.log("These are both True");
+// }
+//
+// if (true === true && true === false) {
+//   console.log("something else out");
+// }
+//
+// if (1 === 3 || "joe" === "joe") {
+//   console.log("One of the statements is true");
+// }
+
+var cat1 = 5;
+var cat2 = 10;
+var cat3 = 1;
+var bubs = false;
+
+if (cat1 > cat2 && cat1 > cat3 && !bubs) {
+  console.log("Cat 1 is the cutest");
+} else if (cat2 > cat1 && cat2 > cat3 && !bubs) {
+  console.log("Cat 2 is the cutest");
+} else if (cat3 > cat1 && cat3 > cat2 || bubs) {
+  console.log("Cat 3 is the cutest");
 }
