@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 12: It's a normal Wednesday"
+date:   2017-12-20 09:30:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Today's lecture, I hope I can get through more, was about logical operators and seeing ways what you can do with multiple statements that are true or false in an "if" conditional. Standard stuff, but syntax is strange. Getting used to it is all.
+<br><br>
+Toodles
