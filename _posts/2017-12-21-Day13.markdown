@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 13: Went to a Holiday Party Day"
+date:   2017-12-21 23:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+No lectures today. Busy day at work, and after work. Kind of a surprise.
+<br><br>
+Take care.
