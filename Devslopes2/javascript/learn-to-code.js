@@ -64,15 +64,34 @@
 //   console.log("One of the statements is true");
 // }
 
-var cat1 = 5;
-var cat2 = 10;
-var cat3 = 1;
-var bubs = false;
+// var cat1 = 5;
+// var cat2 = 10;
+// var cat3 = 1;
+// var bubs = false;
+//
+// if (cat1 > cat2 && cat1 > cat3 && !bubs) {
+//   console.log("Cat 1 is the cutest");
+// } else if (cat2 > cat1 && cat2 > cat3 && !bubs) {
+//   console.log("Cat 2 is the cutest");
+// } else if (cat3 > cat1 && cat3 > cat2 || bubs) {
+//   console.log("Cat 3 is the cutest");
+// }
 
-if (cat1 > cat2 && cat1 > cat3 && !bubs) {
-  console.log("Cat 1 is the cutest");
-} else if (cat2 > cat1 && cat2 > cat3 && !bubs) {
-  console.log("Cat 2 is the cutest");
-} else if (cat3 > cat1 && cat3 > cat2 || bubs) {
-  console.log("Cat 3 is the cutest");
+// Time for some fucking loops motherfuckers
+
+// var total = 10;
+// for (var x = 0; x < total; x++) {
+//   //iterate until told not to
+//   console.log(x);
+// }
+
+var students = ["John", "Paul", "Jorge", "Ringo", "Synth"];
+
+for (var x = 0; x < students.length; x++){
+  console.log(students[x]);
+}
+students.push("Marsters");
+
+for (var x = 0; x < students.length; x++){
+  console.log(students[x]);
 }
