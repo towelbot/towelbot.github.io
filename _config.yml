@@ -9,12 +9,10 @@
 title: Not A Developer Talbot
 email: talshoe@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm trying to just learn some stuff and see what happens. Nothing cool so far.
-  And, I'm just trying out codecademy and github stuff. So what do I know. More
-  about networking and web services clearly.
+  I'm trying to just learn some stuff and see what happens. And, I'm just trying out codecademy and github stuff. So what do I know. More about networking and web services clearly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://twistedsyx.net" # the base hostname & protocol for your site
-twitter_username: twistedsyx
+twitter_username: nihilistikea
 github_username:  towelbot
 
 # Build settings
