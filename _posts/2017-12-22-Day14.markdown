@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 14: The day I decided I want to host content here"
+date:   2017-12-22 11:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Finished the javascript loops lecture from devslopes. And I remembered arrays properties for length as a part of loops before the lecture had gotten to that part. That felt neat, probably won't feel that way again, because I forgot how to add to an array in a single command, or function, or whatever. We'll see how it goes. I figured out .push() only after the google, but there I did.
+<br><br>
+I've also decided I'm going to try to host some content here. Maybe a my favorites link or something. And, maybe I'll turn my devslopes website into a source website, and keep the source somewhere else while making something more hospitable. I've also decided to update my twitter handle for this site. Heh.
+<br><br>
+Take care.
