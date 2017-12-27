@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 15"
+date:   2017-12-26 14:30:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Back for day 15, and today's lecture was about functions. Nothing mind blowing still, but it's nice to have functions syntax covered by someone else. Again. I might be going to a show tonight at the big theater downtown. Pretty stoked. Woo.
+<br><br>
+Welcome back

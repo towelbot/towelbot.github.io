@@ -107,61 +107,84 @@
 // console.log(area1);
 // console.log(area2);
 
-function area(length, width) {
-  return length * width;
-}
+// function area(length, width) {
+//   return length * width;
+// }
+//
+// var rectanglesAreas = []
+// rectanglesAreas.push(area(10,15));
+// rectanglesAreas.push(area(14,2));
+// rectanglesAreas.push(area(4,5));
+//
+//
+// console.log(rectanglesAreas);
+//
+//
+//
+// var bankBalance = 500;
+// function makeTransaction (priceOfSale) {
+//   if (priceOfSale <= bankBalance) {
+//     bankBalance -= priceOfSale;
+//     console.log("Purchase Successful. ");
+//   } else {
+//     console.log("Insufficient Funds");
+//   }
+// }
+// console.log(bankBalance);
+// makeTransaction(79.00);
+// console.log(bankBalance);
+// makeTransaction(2.32);
+// console.log(bankBalance);
+// makeTransaction(10.45);
+// console.log(bankBalance);
+// makeTransaction(450.00);
+//
+// var transaction = function(priceOfSale) {
+//   if (priceOfSale <= bankBalance) {
+//     bankBalance -= priceOfSale;
+//     console.log("Purchase Successful. ");
+//   } else {
+//     console.log("Insufficient Funds");
+//   }
+//
+// }
+//
+// console.log(bankBalance);
+// transaction(10.45);
+// console.log(bankBalance);
+//
+// var printCustomerName = function(first,last) {
+//   console.log("First Name: " + first + " Last Name: " + last);
+// }
+//
+// var applyForCreditCard = function(creditScore, soul) {
+//   //some call
+// }
+//
+// var bankOperations = [];
+// bankOperations.push(transaction);
+// bankOperations.push(printCustomerName);
+// bankOperations.push(applyForCreditCard);
 
-var rectanglesAreas = []
-rectanglesAreas.push(area(10,15));
-rectanglesAreas.push(area(14,2));
-rectanglesAreas.push(area(4,5));
+// alex car
+this.car = "honda civic";
 
-
-console.log(rectanglesAreas);
-
-
-
-var bankBalance = 500;
-function makeTransaction (priceOfSale) {
-  if (priceOfSale <= bankBalance) {
-    bankBalance -= priceOfSale;
-    console.log("Purchase Successful. ");
-  } else {
-    console.log("Insufficient Funds");
+var marksGarage = {
+  car: "Aston Martin",
+  getCar: function() {
+    return this.car;
   }
-}
-console.log(bankBalance);
-makeTransaction(79.00);
-console.log(bankBalance);
-makeTransaction(2.32);
-console.log(bankBalance);
-makeTransaction(10.45);
-console.log(bankBalance);
-makeTransaction(450.00);
+};
 
-var transaction = function(priceOfSale) {
-  if (priceOfSale <= bankBalance) {
-    bankBalance -= priceOfSale;
-    console.log("Purchase Successful. ");
-  } else {
-    console.log("Insufficient Funds");
-  }
+console.log(marksGarage.getCar());
 
-}
+var storeGetCarForLater = marksGarage.getCar;
 
-console.log(bankBalance);
-transaction(10.45);
-console.log(bankBalance);
+// works over mark wants car
 
-var printCustomerName = function(first,last) {
-  console.log("First Name: " + first + " Last Name: " + last);
-}
+console.log(storeGetCarForLater()); // Shows civic
 
-var applyForCreditCard = function(creditScore, soul) {
-  //some call
-}
+// use bind to limit scope of function's call to the variable in the function of the variable marksGarage
 
-var bankOperations = [];
-bankOperations.push(transaction);
-bankOperations.push(printCustomerName);
-bankOperations.push(applyForCreditCard);
+var theRealGetCarFunction = marksGarage.getCar.bind(marksGarage);
+console.log(theRealGetCarFunction());
