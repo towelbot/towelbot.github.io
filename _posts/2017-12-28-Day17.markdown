@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 17"
+date:   2017-12-28 12:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Working on making the Devslopes website mine. Created a /web directory in my test branch to make a website with less BS content and more my content. I won't be fixing the colors I don't think for the time being, but still have a lot to learn about CSS and formatting in HTML with Divs (which I did NOT learn in high school).
+<br><br>
+Later
