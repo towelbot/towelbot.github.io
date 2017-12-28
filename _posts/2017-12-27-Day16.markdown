@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 16"
+date:   2017-12-27 19:30:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Took a lecture today about binds in Javascript. This is confusing, but it seems like using a bind will allow you to set the variable outside of the process of the normal flow of the program. A slight, hard code in the code.
+<br><br>
+Have a good one.
