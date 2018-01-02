@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 18"
+date:   2018-01-01 09:30:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Gonna do some work on the /web directory in my test branch today. Once I feel there's some content in the /web directory, I'll link it in a block post and add an actual link in the links page. Maybe I'll do that today actually, we'll see.
+<br><br>
+Then one or two lectures. See if I can knock it all out by 10am at work. Welcome to 2018
+<br><br>
+Good(?) morning!
