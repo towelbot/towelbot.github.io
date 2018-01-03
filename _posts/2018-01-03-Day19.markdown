@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 19"
+date:   2018-01-03 09:30:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Today's lessons from Devslopes starts with git, which is funny, since I've been using github to manage my sites since day like 5 or 6 of this project of mine. Since that's the thing, I'm gonna try a really big merge today. So, here we go to production!
+<br><br>
+Good(?) morning!
