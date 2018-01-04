@@ -6,7 +6,7 @@ permalink: /links/
 
 This is a links page. I haven't figured out what I'm going to do with it just yet, but I'm going to drop off some resources I'm using:
 
-[My Content Website attempt](https://twistedsyx.net/Web/index.html)
+[My Content Website attempt](http://twistedsyx.net/Web/index.html)
 
 [Test Devslopes Site 1](https://rawgit.com/towelbot/towelbot.github.io/Test/Devslopes/index.html)
 
