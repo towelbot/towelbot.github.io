@@ -114,12 +114,32 @@ ul.topnav li.dropdownIcon {
 /*################# Custom Styles ################*/
 
 #gradientAlpha {
-  background: #076DFF; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(#076DFF, #65a5ff); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(#076DFF, #65a5ff); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(#076DFF, #65a5ff); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(#076DFF, #65a5ff); /* Standard syntax */
+
+  /* IE10+ */
+  background-image: -ms-linear-gradient(bottom, #525252 0%, #eee 100%, #000000 100%);
+
+  /* Mozilla Firefox */
+  background-image: -moz-linear-gradient(bottom, #525252 0%, #eee 100%, #000000 100%);
+
+  /* Opera */
+  background-image: -o-linear-gradient(bottom, #525252 0%, #eee 100%, #000000 100%);
+
+  /* Webkit (Safari/Chrome 10) */
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #525252), color-stop(100, #eee), color-stop(100, #000000));
+
+  /* Webkit (Chrome 11+) */
+  background-image: -webkit-linear-gradient(bottom, #525252 0%, #eee 100%, #000000 100%);
+
+  /* W3C Markup */
+  background-image: linear-gradient(to top, #525252 0%, #eee 100%, #000000 100%);
+
+  /* background: #076DFF; /* For browsers that do not support gradients */ */
+  /* background: -webkit-linear-gradient(#076DFF, #65a5ff); /* For Safari 5.1 to 6.0 */ */
+  /* background: -o-linear-gradient(#076DFF, #65a5ff); /* For Opera 11.1 to 12.0 */ */
+  /* background: -moz-linear-gradient(#076DFF, #65a5ff); /* For Firefox 3.6 to 15 */ */
+  /* background: linear-gradient(#076DFF, #65a5ff); /* Standard syntax */ */
 }
+
 
 #gradientBeta {
   background: #076DFF; /* For browsers that do not support gradients */
