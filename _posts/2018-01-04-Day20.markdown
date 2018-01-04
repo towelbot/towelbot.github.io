@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 20"
+date:   2018-01-04 11:30:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+No devslopes lectures today. But I had to figure out what was going on with the mobile version of my website at twistedsyx.net/Web . The problem is a viewport wasn't set, but I'm not sure how that affected mobile browsers going to the website. Which is a bit of a bummer. So, I'll figure that out today and work on shoring up the template I want to use for the website before figuring out more content.
+<br><br>
+GO WEST YOUNG MAN GO WEST!
