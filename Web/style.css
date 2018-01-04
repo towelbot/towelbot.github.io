@@ -271,11 +271,30 @@ footer.footish ul {
   padding-left: 0;
 }
 
-footer.footish ul li {
+footer.footish ul li a {
   color: white;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 1.5;
+  font-family: 'Bungee', cursive;
+  display: block;
+  text-decoration: none;
 }
+
+footer.footish ul li a:hover {
+  /* background-color: #0080ff; */
+  color: #84c1ff;
+}
+
+/* Top Nave LI A settings. {
+  display: block;
+  text-decoration: none;
+  min-height: 16px;
+  text-align: center;
+  padding: 14px;
+  text-transform: uppercase;
+  color: #666;
+  font-family: 'Bungee', cursive;
+} */
 
 /*################# youtube1 ################*/
 
