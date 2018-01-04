@@ -287,12 +287,12 @@ footer.footish ul li {
 /*################# Mobile ################*/
 
 @media screen
-and (device-width: 360px)
-and (device-height: 640px)
-and (-webkit-device-pixel-ratio: 3) {
-  ul.topnav li:not(:nth-child(1)) {
-    display: none;
-  }
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3) {
+    ul.topnav li:not(:nth-child(1)) {
+      display: none;
+    }
 
   ul.topnav li.dropdownIcon {
     display: block;
