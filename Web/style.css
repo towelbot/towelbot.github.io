@@ -286,7 +286,7 @@ footer.footish ul li {
 
 /*################# Mobile ################*/
 
-@media screen and (max-width: 40.5em) {
+@media screen and (max-width: 800px) {
     ul.topnav li:not(:nth-child(1)) {
       display: none;
     }
