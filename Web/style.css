@@ -255,6 +255,11 @@ input[type="text"]{
   padding-right: 50px;
 }
 
+div.googleForm {
+  text-align: center;
+  overflow: hidden;
+}
+
 footer.footish {
   background-color: #666;
   padding-left: 10%;
@@ -313,6 +318,11 @@ footer.footish ul li a:hover {
   ul.topnav li.dropdownIcon {
     display: block;
     float: right;
+    font-size: 36px
+  }
+
+  ul.topnav li {
+    font-size: 36px
   }
 
   ul.topnav.responsive li.dropdownIcon {
@@ -328,6 +338,7 @@ footer.footish ul li a:hover {
   ul.topnav.responsive li {
     display: inline;
     float: none;
+    font-size: 36px
   }
 
   ul.topnav.responsive li a {
