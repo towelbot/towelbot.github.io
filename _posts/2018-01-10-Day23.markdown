@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Day 22"
-date:   2018-01-09 09:20:00 -0800
+title:  "Day 23"
+date:   2018-01-10 15:00:00 -0800
 categories: blog update
 ---
 Hello,
 <br><br>
-Being busy still basically all the time. But did yoga twice since then I'm pretty sure. Hooray! Anyway, finished some lectures on Github and merge conflict resolution. Seems pretty chill. NBD. git mergetool is your friend when Atom doesn't have the same plugins as your lecturer. No new content posted, I'll try to update the games portion of the /web site today for some content practice.
+Still basically busy. Won't have much time to do stuff with work stuff backed up and me wanting to reclaim a work laptop. It's an okay macbook air I'm going to co opt, but it needs a power supply. Woo.
 <br><br>
-Bye!
+Adios
