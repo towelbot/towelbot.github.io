@@ -390,6 +390,14 @@ footer.footish ul li a:hover {
     width: 300px;
   }
 
+  footer.footish h1 {
+    font-size: 24px;
+  }
+
+  footer.footish ul li a {
+    font-size: 16px;
+  }
+
   .videoContainer iframe {
     position: relative;
     width: 100%;
