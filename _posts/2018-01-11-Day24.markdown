@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 24"
+date:   2018-01-11 10:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Thanks for checking up on me, it's not like I have done a lot since getting to work today. But awesome games done quick is on for this winter and has me mesmerized. Today I took the primers on bootstrap 4, and it seems pretty neat. Even gave myself a small carousel at [this new hotness](http://twistedsyx.net/Devslopes4/). Next up for lessons are using the grid system in bootstrap 4, and then creating a login portal. But for work today I'm working on a private partner router firmware ui validation, and then entering my goals into our goal tracking system? I'm guessing?
+<br><br>
+Cheers
