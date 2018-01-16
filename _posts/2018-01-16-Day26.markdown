@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 26"
+date:   2018-01-16 10:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+So, I didn't do any coding this weekend (boo me), but I did have some moments of clarity in quiet contemplation about what I've done already. And it came out like this: With bootstrap 4 being introduced into my toolbox, and wanting to get stuff done for "web" purposes. What have I done? WHAT HAVE I DONE!?!?
+<br><br>
+So, I'm gonna basically shift assets after I learn more about what bootstrap is capable of, and how I can best integrate it with my own projects and what not. So, get your fill of pointless unfinished website at [my testing website](http://twistedsyx.net/Web/) before it's all gone.
+<br><br>
+Toodles

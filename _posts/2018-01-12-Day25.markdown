@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Day 24"
-date:   2018-01-11 10:00:00 -0800
+title:  "Day 25"
+date:   2018-01-12 10:00:00 -0800
 categories: blog update
 ---
 Hello,
 <br><br>
 Well, I deleted everything at [/devslopes4](http://twistedsyx.net/Devslopes4) today to test how the grid system in bootstrap works. Which is super neat because it accounts for viewports where my previous non bootstrap version of the website didn't. But, I've got gamesdonequick, so that's okay. And I'm 54% through this Devslopes series. Gonna try to knock out a bigger chunk this weekend. But coding once a day seems to be helping, and video lectures are superior to reading for me. I mean, I guess I knew that, but this is the first kind of... real example of that.
 <br>
-Talked to a coworker yesterday who thought I was doing good stuff. Not sure if it was a  full endorsement, but here we are. He recommended checking out [https://egghead.io/](https://egghead.io/) for lessons too. So, I'll do that as well. 
+Talked to a coworker yesterday who thought I was doing good stuff. Not sure if it was a  full endorsement, but here we are. He recommended checking out [https://egghead.io/](https://egghead.io/) for lessons too. So, I'll do that as well.
 <br><br>
 Cheers
