@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 27"
+date:   2018-01-18 10:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Took yesterday off to be busy at work. Did a course this morning on using forms with bootstrap 4. AND! Fixed the vertical alignment of the carousel on the [/Web/Photos](http://twistedsyx.net/Web/photos.html)! That was a big deal working with a new component and having it take the wrong amount of space basically the whole goddamn time. The copy and paste use of bootstrap 4 is over. Well, for now. Always stuff to edit. No posts for about 3 days as I'll be out of town.
+<br><br>
+Hugs n Kisses

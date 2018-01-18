@@ -170,6 +170,10 @@ div.box {
   border-radius: 7px;
 }
 
+div.framePic {
+    align-items: baseline;
+}
+
 div.framePic img {
   display: block;
   margin: auto;
@@ -247,6 +251,10 @@ input[type="text"]{
   min-width: 100px;
   padding: 5px;
   border-radius: 7px;
+}
+
+.carouselContainer {
+  padding: 0 5%;
 }
 
 .videoContainer iframe {
@@ -380,6 +388,7 @@ footer.footish ul li a:hover {
 
   div.framePic {
     margin: 10px;
+    align-items: baseline;
   }
 
   div.leftSide-col, div.rightSide-col {
@@ -391,11 +400,11 @@ footer.footish ul li a:hover {
   }
 
   footer.footish h1 {
-    font-size: 24px;
+    font-size: 16px;
   }
 
   footer.footish ul li a {
-    font-size: 16px;
+    font-size: 10px;
   }
 
   .videoContainer iframe {
