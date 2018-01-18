@@ -257,6 +257,10 @@ input[type="text"]{
   padding: 0 5%;
 }
 
+.linksContainer {
+  padding: 1rem 5%;
+}
+
 .videoContainer iframe {
   position: relative;
   width: 100%;
