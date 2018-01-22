@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 28"
+date:   2018-01-22 11:30:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+I'm back from helping my partner's sister move. After the plane ride down, it was 1500 miles of driving in 3 days. And then unloading the truck afterwards. Whew! Am exhausted, but am back at work. Finished the Devslopes videos on Bootstrap 4: Creating a Login Portal in the /Devslopes5 section, which is just a portal login with no functionality. It did allow me to explore the Bootstrap 4 components and editing my own classes to fit the needs. Bootstrap 4 is pretty great. Probably more tomorrow as it's a work from home and receive couch delivery kind of day.
+<br><br>
+Later gator
