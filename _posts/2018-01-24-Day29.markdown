@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 29"
+date:   2018-01-24 10:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Today was start /Devslopes6 where I'm being walked through making an entire website in Bootstrap 4. I'm pretty sure I don't need it, but it's a step and pactice. I'm keeping an assets2 folder around with pictures of the NES game Skate or Die instead of an actual skateboarding website. But we'll see how it goes. I imagine I'll have to specify more dimensions and stuff to make it worth it, and stuff. So I'm not sure.
+<br><br>
+Bye
