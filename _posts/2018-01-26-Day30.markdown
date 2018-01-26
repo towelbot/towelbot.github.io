@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 29"
+date:   2018-01-24 10:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Boring last 2 days. Just working on /Devslopes6 and mobile notifications at work. Have a good weekend everyone.
+<br><br>
+Tah
