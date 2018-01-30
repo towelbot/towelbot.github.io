@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Test Post"
+date:   2018-01-30 12:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Been distracted from doing coding school lately. Dumb reasons, not worth getting into. But I got a new work computer (second of 3 this year I'm sure), so I'm trying to break it in with Atom and see what's up.
+<br><br>
+Tah
