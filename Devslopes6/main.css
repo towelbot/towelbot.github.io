@@ -7,3 +7,20 @@
   background-color: #eceeef;
   padding: 2em;
 }
+
+.sectionDark {
+  background-color: #cccccc;
+  padding: 2rem;
+}
+
+.stuffWrapper {
+  margin-top: 20px;
+
+}
+
+button.stuffBtn {
+  background-color: red;
+  color: #ffffff;
+  display: block;
+  margin: auto;
+}
