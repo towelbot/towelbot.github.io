@@ -96,8 +96,8 @@
         </div>
       </div>
 
-        <div class="col">
-        </div>
+      <div class="col">
+      </div>
     </div>
   </div>
 
@@ -131,20 +131,68 @@
     </div>
     <div class="col-sm-12">
       <div class="stuffWrapper">
-        <button type="button" class="btn btn-lg stuffBtn">Get Cool Stuff!</button>
+        <button type="button" class="btn btn-lg stuffBtn" data-toggle="modal" data-target="#stuffModal">Get Cool Stuff!</button>
       </div>
     </div>
   </div>
+
+
+
+  <!-- Cool Stuff Modal -->
+  <div class="modal fade" id="stuffModal" tabindex="-1" role="dialog" aria-labelledby="stuffLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="contentLabel">Get brogrammer Stuff!</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+
+        <div class="modal-body">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-sm-12">
+                <img class="img-fluid" src="assets/KFS_modal.png">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-12">
+                <div class="modalFormWrapper">
+                  <form>
+                    <div class="form-group">
+                      <label for="forName">What's your name</label>
+                      <input type="text" class="form-control" id="forName" placeholder="Name">
+                    </div>
+                    <div class="form-group">
+                      <label for="formEmail">Where should we email you?</label>
+                      <input type="text" class="form-control" id="formEmail" placeholder="Email">
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- End section2 -->
 </div>
 
 
 
 
 
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <!--  Always Download latest version of Boostrap and add here-->
-    <script src="bootstrap-4.0.0-alpha.6-dist/js/bootstrap.min.js"></script>
-  </body>
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<!--  Always Download latest version of Boostrap and add here-->
+<script src="bootstrap-4.0.0-alpha.6-dist/js/bootstrap.min.js"></script>
+</body>
 
-  </html>
+</html>
