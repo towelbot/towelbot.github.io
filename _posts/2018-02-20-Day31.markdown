@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 31"
+date:   2018-02-20 10:30:00 -0800
+categories: blog update tattoo
+---
+Hello,
+<br><br>
+Well, It's been a long time since my last check in. I've traveled. I've sickened. I've returned to work where it is an almost constant clusterfuck in the cloud. So I took a class implementing bootstrap 4 modals and it was less complicated using bootstrap than I thought it would be, so that's pretty dang neat. :)<br><br>
+I also had a good chat with my partner last night about tattoos, and it was pretty great. She was thinking I could go for a half or three quarter sleeve immortalizing SLIM! THE DEMON HUNTER FROM FAR AWAY LANDS VOWING VENGEANCE AGAINST THE HELLSPAWN WHOM HAVE TAKEN HER FAMILY! Or was her name Knifey or something?
+<br><br>
+Bye!
