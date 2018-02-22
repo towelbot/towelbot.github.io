@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 32"
+date:   2018-02-21 11:30:00 -0800
+categories: blog update tattoo
+---
+Hello,
+<br><br>
+Another day, another class. Today's adventure in the /Devslopes6 directory was another nested row and column using Bootstrap 4 assets with some class wrapping for centering purposes. If I get nothing else out of Bootstrap, it makes my own CSS file look way more clean than doing it all by hand.
+<br><br>
+Peace
