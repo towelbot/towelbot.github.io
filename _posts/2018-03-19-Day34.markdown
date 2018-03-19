@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 34"
+date:   2018-03-19 12:45:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+LOL, I've been busy and work has been busy too! So I did a lot of classes over the last 4 days. Nodes and api server javascript classes with some JSON practice and knowledge too. Kinda neat.
+<br><br>
+killer
