@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://twistedsyx.net" # the base hostname & protocol for your site
 twitter_username: nihilistikea
 github_username:  towelbot
-exclude: Web/bootstrap-4.0.0-alpha.6-dist
+exclude: [Web/bootstrap-4.0.0-alpha.6-dist]
 
 # Build settings
 markdown: kramdown
