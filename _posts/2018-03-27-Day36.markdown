@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 36"
+date:   2018-03-27 10:15:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Haven't been posting lately because not much to post about. Still doing classes occasionally thanks to being busy all the time. But I did some interacting with the MongoDB shell today. Gotta look into their tutorial and what nosql databases are. Seems like it's a low structure kind of thing. 
+<br>
+<br>
+cooooool
