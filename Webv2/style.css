@@ -1,0 +1,25 @@
+/*################# Defaults ################*/
+
+
+
+/*################# Customs ################*/
+
+footer.footish ul li {
+  list-style-type: none;
+}
+
+footer.footish {
+  /* background-color: #666; */
+  display: block;
+  padding-left: 5%;
+}
+
+footer.footish ul li a {
+  /* color: white;
+  font-size: 18px;
+  line-height: 1.5;
+  font-family: 'Bungee', cursive;
+  display: block;  */
+
+  text-decoration: none;
+}
