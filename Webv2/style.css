@@ -4,22 +4,57 @@
 
 /*################# Customs ################*/
 
-footer.footish ul li {
+.carouselContainer {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+/* ################# Footer ################ */
+
+/* footer.footish ul li {
   list-style-type: none;
 }
 
 footer.footish {
-  /* background-color: #666; */
+
   display: block;
   padding-left: 5%;
 }
 
 footer.footish ul li a {
-  /* color: white;
+  text-decoration: none;
+} */
+
+
+
+footer.footish {
+  background-color: #343a40;
+  padding-left: 10%;
+  padding-top: 15px;
+}
+
+footer.footish h3 {
+  /* font-family: 'Bungee', cursive; */
+  color: white;
+  /* font-size: 35px; */
+}
+
+footer.footish ul {
+  list-style: none;
+  text-align: left;
+  padding-left: 0;
+}
+
+footer.footish ul li a {
+  color: white;
   font-size: 18px;
   line-height: 1.5;
-  font-family: 'Bungee', cursive;
-  display: block;  */
-
+  /* font-family: 'Bungee', cursive; */
+  display: block;
   text-decoration: none;
+}
+
+footer.footish ul li a:hover {
+  /* background-color: #0080ff; */
+  color: #84c1ff;
 }
