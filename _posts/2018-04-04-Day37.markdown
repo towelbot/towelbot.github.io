@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 37"
+date:   2018-04-04 10:45:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Hey all. Been mostly quiet on blogging because I decided to start v2 of my web folder over at  [/Webv2](http://twistedsyx.net/Webv2/). So far so good. Sparse on content, but using what I learned and borrowing from v1 for content. I can see this going out of control real soon.
+<br>
+<br>
+Abra Cadabra
