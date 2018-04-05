@@ -1,9 +1,5 @@
 /*################# Defaults ################*/
 
-.squarePic {
-  max-height: 1065px;
-}
-
 
 
 /*################# Customs ################*/
@@ -11,6 +7,11 @@
 .carouselContainer {
   padding-left: 5%;
   padding-right: 5%;
+}
+
+div.googleForm {
+  text-align: center;
+  overflow: hidden;
 }
 
 /* ################# Footer ################ */
