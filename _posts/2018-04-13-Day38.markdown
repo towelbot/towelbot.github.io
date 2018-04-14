@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 38"
+date:   2018-04-13 22:45:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Just being slow about stuff. Tired. And new puppy. Hopefully power through the last devslopes classes this weekend<br>
+<br>
+Abra Cadabra
