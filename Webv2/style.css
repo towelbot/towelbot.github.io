@@ -51,7 +51,7 @@ footer.footish ul {
 }
 
 footer.footish ul li a {
-  color: white;
+  color: rgba(255,255,255,.5);
   font-size: 18px;
   line-height: 1.5;
   /* font-family: 'Bungee', cursive; */
@@ -61,5 +61,5 @@ footer.footish ul li a {
 
 footer.footish ul li a:hover {
   /* background-color: #0080ff; */
-  color: #84c1ff;
+  color: rgba(255,255,255,.75);
 }
