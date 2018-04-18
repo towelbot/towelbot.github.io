@@ -36,10 +36,11 @@ footer.footish {
   background-color: #343a40;
   padding-left: 10%;
   padding-top: 15px;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
 footer.footish h3 {
-  /* font-family: 'Bungee', cursive; */
+
   color: white;
   /* font-size: 35px; */
 }
@@ -54,7 +55,6 @@ footer.footish ul li a {
   color: rgba(255,255,255,.5);
   font-size: 18px;
   line-height: 1.5;
-  /* font-family: 'Bungee', cursive; */
   display: block;
   text-decoration: none;
 }
