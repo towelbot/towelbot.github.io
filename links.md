@@ -6,13 +6,13 @@ permalink: /links/
 
 This is a links page. I haven't figured out what I'm going to do with it just yet, but I'm going to drop off some resources I'm using:
 
-[My Content Website attempt](http://twistedsyx.net/Web/index.html)
+[Webv1 http://twistedsyx.net/Web](http://twistedsyx.net/Web/index.html)
 
-[Test Devslopes Site 1](https://rawgit.com/towelbot/towelbot.github.io/Test/Devslopes/index.html)
+[Webv2 http://twistedsyx.net/Webv2](http://twistedsyx.net/Webv2/index.html)
 
-[Production Devslopes site 1](http://twistedsyx.net/Devslopes/)
+[The Engadget learn to code bundle I'm using](https://deals.gdgt.com/sales/pwyw-learn-to-code-2018)
 
-[Test Devslopes Site 2: javascript lectures](https://rawgit.com/towelbot/towelbot.github.io/Test/Devslopes2/index.html)
+[My Class Taking Git Repo](https://github.com/towelbot/Class)
 
 [Test?](https://google.com)
 
