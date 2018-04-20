@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 39"
+date:   2018-04-20 10:45:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Still tired as all hell. However, went through more DB training in mongo with some product and wishlist construction. Kinda neat. Wondering if I should be trying to do these steps with firebase instead. We'll see.
+<br><br>
+Also did some work on Webv2 for about and some CSS update to match theming a little better. Thinking about changing fonts on headers and footers. Nothing in stone yet.
+<br>
+<br>
+Toodle... oo?
