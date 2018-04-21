@@ -6,9 +6,9 @@ permalink: /links/
 
 This is a links page. I haven't figured out what I'm going to do with it just yet, but I'm going to drop off some resources I'm using:
 
-[Webv1 http://twistedsyx.net/Web](http://twistedsyx.net/Web/index.html)
+[Webv1 http://twistedsyx.net/Web](http://twistedsyx.net/net/index.html)
 
-[Webv2 http://twistedsyx.net/Webv2](http://twistedsyx.net/Webv2/index.html)
+[Webv2 http://twistedsyx.net/Webv2](http://twistedsyx.net/netv2/index.html)
 
 [The Engadget learn to code bundle I'm using](https://deals.gdgt.com/sales/pwyw-learn-to-code-2018)
 
