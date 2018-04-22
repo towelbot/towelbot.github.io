@@ -14,6 +14,11 @@ div.googleForm {
   overflow: hidden;
 }
 
+.framePic {
+  height: auto;
+  width: auto;
+  }
+
 /* ################# Footer ################ */
 
 /* footer.footish ul li {
