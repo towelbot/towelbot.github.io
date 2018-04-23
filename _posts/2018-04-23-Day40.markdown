@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 40"
+date:   2018-04-23 10:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Maybe I'll take one of the classes later, but spent too much time this morning on [netv2](http://twistedsyx.net/netv2/index.html). I had a missing close div tag on games that was messing up the footer, but it was nice to fix. And, I'm still trying to see if the mobile github solution is worth it, at all. We'll see. I also created the  [podcasts](http://twistedsyx.net/netv2/podcasts.html) page. And while it looks passable in large and small screens, it still has an issue with medium screens. So, that's a to do. 
+<br>
+<br>
+Adios
