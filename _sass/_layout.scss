@@ -25,6 +25,14 @@
     }
 }
 
+h1.display-4 {
+  font-family: 'Bungee', cursive;
+}
+
+p.lead {
+  font-family: 'Bungee', cursive;
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
@@ -174,6 +182,11 @@
 }
 
 .page-heading {
+    font-size: 30px;
+    font-family: 'Bungee', cursive;
+}
+
+h1.page-heading {
     font-size: 30px;
     font-family: 'Bungee', cursive;
 }
