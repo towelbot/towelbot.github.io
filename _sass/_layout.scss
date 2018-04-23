@@ -25,6 +25,7 @@
     }
 }
 
+<<<<<<< HEAD
 h1.display-4 {
   font-family: 'Bungee', cursive;
 }
@@ -34,6 +35,9 @@ p.lead {
 }
 
 .site-nav-jekyll {
+=======
+.site-nav {
+>>>>>>> parent of 07dacfe... more main site changes
     float: right;
     line-height: 56px;
     font-family: 'Open Sans', sans-serif;
@@ -184,11 +188,6 @@ p.lead {
 .page-heading {
     font-size: 30px;
     font-family: 'Open Sans', sans-serif;
-}
-
-h1.page-heading {
-    font-size: 30px;
-    font-family: 'Bungee', cursive;
 }
 
 .post-list {
