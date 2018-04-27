@@ -1,0 +1,32 @@
+[debug] [2018-04-26T18:34:31.888Z] ----------------------------------------------------------------------
+[debug] [2018-04-26T18:34:31.890Z] Command:       /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2018-04-26T18:34:31.890Z] CLI Version:   3.18.4
+[debug] [2018-04-26T18:34:31.890Z] Platform:      darwin
+[debug] [2018-04-26T18:34:31.891Z] Node Version:  v9.11.1
+[debug] [2018-04-26T18:34:31.891Z] Time:          Thu Apr 26 2018 11:34:31 GMT-0700 (PDT)
+[debug] [2018-04-26T18:34:31.891Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-04-26T18:34:31.903Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-04-26T18:34:31.903Z] > authorizing via signed-in user
+[debug] [2018-04-26T18:34:31.905Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/swag-clinic-devslopes-1  
+  
+ Thu Apr 26 2018 11:34:31 GMT-0700 (PDT)
+[debug] [2018-04-26T18:34:32.302Z] <<< HTTP RESPONSE 200
+[debug] [2018-04-26T18:34:32.303Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/swag-clinic-devslopes-1/tokens  
+  
+ Thu Apr 26 2018 11:34:32 GMT-0700 (PDT)
+[debug] [2018-04-26T18:34:32.744Z] <<< HTTP RESPONSE 200
+[debug] [2018-04-26T18:34:32.745Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/swag-clinic-devslopes-1  
+  
+ Thu Apr 26 2018 11:34:32 GMT-0700 (PDT)
+[debug] [2018-04-26T18:34:33.091Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/talbot/Documents/GitHub/quickstart-js/database'...
+[info] 
+[debug] [2018-04-26T18:34:33.093Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/898555259751/clients/_:getWebAppConfig  
+  
+ Thu Apr 26 2018 11:34:33 GMT-0700 (PDT)
+[debug] [2018-04-26T18:34:33.393Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5000
+
