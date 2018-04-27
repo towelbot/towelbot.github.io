@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 42"
+date:   2018-04-27 16:20:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Handful of nothing days where I just played with and implemented some of the quickstart firebase stuff. Which is actually super neat as the firebase console will show you updated content in real time with highlighting. Pretty darn neat. Got a new work computer from IT and cloned my dumb project already. Gonna install NPM and firebase tools once IT is done with it and feels comfortable handing over the reins to me.
+<br>
+<br>
+Check out the quickstart database website (a mock social media site) [Here](https://swag1.twistedsyx.net/database)
+<br>
+<br>
+Ta ta

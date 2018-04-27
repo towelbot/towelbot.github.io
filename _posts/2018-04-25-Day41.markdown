@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 41"
+date:   2018-04-25 10:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+So, I've finished a section on the "Swag shop" from Devslopes. It's in my class repo on github, so updated as of today. Also, I was seeing if there was a way I could adjust the class I was taking and using firebase instead of mongodb. Turns out there's a lot to do instead. However, yesterday I was able to deploy my website from netv2 to [A Firebase Website](https://swag1.twistedsyx.net), effectively cloning [netv2](http://twistedsyx.net/netv2/index.html) to firebase. I set up a subdomain to point there via my dns provider and gave it a go. Neat.
+<br>
+<br>
+So, I'll see what I can get going/do with firebase in the future, but seems neat. 
+<br>
+<br>
+Adios
