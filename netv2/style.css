@@ -9,6 +9,11 @@
   padding-right: 5%;
 }
 
+.jumbotron, .jumbotron-fluid {
+  margin-bottom: 16px;
+  padding: 32px;
+}
+
 div.googleForm {
   text-align: center;
   overflow: hidden;
