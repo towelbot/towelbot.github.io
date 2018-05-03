@@ -10,6 +10,8 @@ This is a links page. I haven't figured out what I'm going to do with it just ye
 
 [netv2 http://twistedsyx.net/netv2](http://twistedsyx.net/netv2/index.html)
 
+[Firebase http://swag1.twistedsyx.net/firebase.html](http://swag1.twistedsyx.net/firebase.html)
+
 [The Engadget learn to code bundle I'm using](https://deals.gdgt.com/sales/pwyw-learn-to-code-2018)
 
 [My Class Taking Git Repo](https://github.com/towelbot/Class)

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 43"
+date:   2018-05-03 10:40:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Playing with stuff to get to firebase. Not exciting or sexy, but I have a custom 404 page now. yay. The rest is straight from my github commit comments:
+<br><br>
+<br>Created a custom 404 page that matches rest of website styling.
+<br>Created a firebase status page. Maybe.
+<br>Fixed the header field to be much smaller than it was before.
+<br>Added links to firebase hosted content.
+<br>
+<br>
+tired goodbye.
