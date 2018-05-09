@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 44"
+date:   2018-05-09 11:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+So, I plowed through the last 4 Devslopes lessons on React, and those are powerful reusable tools. There was some data and notification services set up to allow components on screen to change state and then refresh on the fly as the list state changed and allowed for multiple buttons in multiple lists to change and affect the same data set.
+<br><br>
+Well, that class is done, and the front end stuff will be tinker worthy for ages. Next up is a class on python I think, and then work on changing some of the stuff from either firebase or the last class to MOVE to firebase instead of mongodb locally.
+<br>
+<br>
+Thanks Mark Price
