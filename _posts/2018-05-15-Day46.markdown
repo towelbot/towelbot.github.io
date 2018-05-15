@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 46"
+date:   2018-05-15 11:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Been hitting my head against an issue while learning React. The really componentized development really speaks to me and I can't seem to get the non data-service type thing working. So I skipped on it for a while. Also, looking into Ember with Blake as a thing with Tachyons instead of Bootstrap. It looks very pretty, but I'm afraid I'm not going to have my brain wrapped around the concepts of routes and computized properties when it's needed. But I'm going to try to finish this one thing. Then get it hosted in Firebase. We'll see.
+<br><br>
+Cheers.
+<br><br>
