@@ -14,6 +14,11 @@
   padding: 32px;
 }
 
+.pa-widget-gallery {
+  width:100%;
+  height:600px;
+}
+
 div.googleForm {
   text-align: center;
   overflow: hidden;
@@ -105,4 +110,10 @@ footer.footish ul li a {
 footer.footish ul li a:hover {
   /* background-color: #0080ff; */
   color: rgba(255,255,255,.75);
+}
+
+@media screen and (max-width: 990px) {
+  .pa-widget-gallery {
+    height: 300px;
+  }
 }
