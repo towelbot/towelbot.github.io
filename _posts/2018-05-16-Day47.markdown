@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 46"
+date:   2018-05-15 11:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Finished another React tutorial: [fun food thing](https://friendly-giggle.firebaseapp.com/). It uses React, and has a firebase database and google authentication. I may have accidentally published the api for that website, so it probably won't be around for long. Anyway, it's a single app, and doesn't use other javascript file components, so it's not very React. Gonna probably do the React tutorial in Devslopes class, which I annihilated my local source for, with their methodology and include firebase instead of Mongo. This tutorial should have given me the tools I need to do that. I think.  
+<br><br>
+Talk me out of it, but I'm thinking of moving off github.io in favor of updating a more permanent website hosting with firebase. Hosting would be free for the volume I'm talking about, and it would be it's own subdomain, with Jekyll hosting my blog here since it's so drop dead simple. Anyway, thoughts and thoughts.
+<br><br>
+Cheers.
+<br><br>
