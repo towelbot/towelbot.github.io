@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 48"
+date:   2018-05-31 11:00:00 -0800
+categories: blog update
+---
+Hello,
+<br><br>
+Tried a react class in the bundle from the thing I bought from Joe something or other, and he has lectures straight up missing. Which is fine some times, but I don't feel like going through that, after not explaining a lot of his dependencies. I feel like I'd get stuck. Maybe I'll come back, maybe I won't. Anyway. Wasted time to recoup.
+<br><br>
+Cheers.
+<br><br>
