@@ -4,9 +4,33 @@
 
 /*################# Customs ################*/
 
+#navbarNav {
+  /* background-color: #28b220; */
+}
+
+div.jumbotron {
+  background-color: #20b2aa;
+}
+
+div.container-fluid {
+  /* background-color: #aa20b2; */
+}
+
 .carouselContainer {
   padding-left: 5%;
   padding-right: 5%;
+}
+
+.freebirdFormviewerViewFormBanner, .freebirdHeaderMast {
+  height: 50px;
+}
+
+#contact-jumbotron {
+    margin-bottom: 0;
+}
+
+.contactSubmit {
+  margin-left: 34px;
 }
 
 .jumbotron, .jumbotron-fluid {
@@ -20,8 +44,11 @@
 }
 
 div.googleForm {
-  text-align: center;
+  text-align: left;
   overflow: hidden;
+  margin: 10%;
+  padding-top: 0;
+  margin-top: 0;
 }
 
 div.framePic {
@@ -51,7 +78,7 @@ div.box {
   text-align: center;
   margin: 24px;
   padding: 36px 24px 40px 24px;
-  background-color: #fff;
+  background-color: #42ddd4;
   box-shadow: 0 0 0 1px rgba(0,0,0,.15), 0 2px 3px 0 rgba(0,0,0,.1);
   border-radius: 7px;
 }
@@ -81,7 +108,7 @@ footer.footish ul li a {
 
 
 footer.footish {
-  background-color: #343a40;
+  background-color: #20b2aa;
   padding-left: 10%;
   padding-top: 15px;
   font-family: 'IBM Plex Sans', sans-serif;
